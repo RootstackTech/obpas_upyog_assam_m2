@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:13:10 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770986587676
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.egov\:egov-dcr\:pom\:5.0.3 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770986587230
+http\://repository.jspresso.org/maven2/.lastUpdated=1770986590147
+https\://repository.jboss.org/nexus/content/groups/public/.error=
