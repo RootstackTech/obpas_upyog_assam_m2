@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 21:40:23 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763568622256
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:sources\:4.3.11.RELEASE from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763568621771
+http\://www.javaxt.com/maven/.lastUpdated=1763568623448
+https\://repository.jboss.org/nexus/content/groups/public/.error=
