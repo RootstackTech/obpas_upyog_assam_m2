@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:24:59 IST 2026
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770987299362
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.wildfly.plugins\:wildfly-maven-plugin\:jar\:6.0.0.Beta2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770987299125
