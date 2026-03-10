@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 20:56:11 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763565969087
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.tiles\:tiles-api\:jar\:sources\:3.0.7 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763565968531
+http\://www.javaxt.com/maven/.lastUpdated=1763565971503
+https\://repository.jboss.org/nexus/content/groups/public/.error=

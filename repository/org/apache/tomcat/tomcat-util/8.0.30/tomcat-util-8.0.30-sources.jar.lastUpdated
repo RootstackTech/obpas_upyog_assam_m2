@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 19:19:40 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770990579537
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770990577505
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.apache.tomcat\:tomcat-util\:jar\:sources\:8.0.30 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/apache/tomcat/tomcat-util/8.0.30/tomcat-util-8.0.30-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770990580164
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.tomcat\:tomcat-util\:jar\:sources\:8.0.30 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770990576887
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.apache.tomcat\:tomcat-util\:jar\:sources\:8.0.30 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/apache/tomcat/tomcat-util/8.0.30/tomcat-util-8.0.30-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770990476715
+https\://repository.jboss.org/nexus/content/groups/public/.error=
