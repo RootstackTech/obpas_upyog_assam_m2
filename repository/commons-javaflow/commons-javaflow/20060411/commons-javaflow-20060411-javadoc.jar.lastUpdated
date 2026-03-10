@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 15:07:23 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771055154495
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771055153012
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527087030
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772527089066
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771055153762
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact commons-javaflow\:commons-javaflow\:jar\:javadoc\:20060411 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/commons-javaflow/commons-javaflow/20060411/commons-javaflow-20060411-javadoc.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771055154871
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact commons-javaflow\:commons-javaflow\:jar\:javadoc\:20060411 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1772530643008
+http\://releases.aspose.com/repo/.lastUpdated=1772527087621

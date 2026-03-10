@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 20:05:01 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763562899846
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact commons-pool\:commons-pool\:jar\:sources\:1.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763562899158
+http\://www.javaxt.com/maven/.lastUpdated=1763562901062
+https\://repository.jboss.org/nexus/content/groups/public/.error=
