@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 01 16:28:11 IST 2025
+jjwt-0.7.0.jar>central=
+jjwt-0.7.0-sources.jar>central=
+jjwt-0.7.0.pom>central=

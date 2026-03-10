@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 19:34:22 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763561061456
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact displaytag\:displaytag\:jar\:sources\:1.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763561060787
+http\://www.javaxt.com/maven/.lastUpdated=1763561062479
+https\://repository.jboss.org/nexus/content/groups/public/.error=
