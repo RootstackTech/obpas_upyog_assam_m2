@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 12:35:10 IST 2025
+postgresql-42.2.11.jar>repo.egovernments.org.public=
+postgresql-42.2.11.jar>repo.egovernments.org=
+postgresql-42.2.11.pom>repo.egovernments.org.public=
+postgresql-42.2.11.pom>repo.egovernments.org=
+postgresql-42.2.11-sources.jar>repo.egovernments.org=

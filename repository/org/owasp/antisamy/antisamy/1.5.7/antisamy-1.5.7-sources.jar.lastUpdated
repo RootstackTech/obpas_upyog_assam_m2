@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 19:12:37 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770990156559
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770990154243
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.owasp.antisamy\:antisamy\:jar\:sources\:1.5.7 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/owasp/antisamy/antisamy/1.5.7/antisamy-1.5.7-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770990157720
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.owasp.antisamy\:antisamy\:jar\:sources\:1.5.7 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770990153624
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.owasp.antisamy\:antisamy\:jar\:sources\:1.5.7 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/owasp/antisamy/antisamy/1.5.7/antisamy-1.5.7-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770990053410
+https\://repository.jboss.org/nexus/content/groups/public/.error=

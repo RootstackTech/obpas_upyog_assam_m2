@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 17:50:13 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770985210247
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.owasp.antisamy\:antisamy\:pom\:1.5.7 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770985209609
+http\://repository.jspresso.org/maven2/.lastUpdated=1770985213757
+https\://repository.jboss.org/nexus/content/groups/public/.error=
