@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+hibernate-entitymanager-5.1.10.Final-sources.jar>JBoss\ Repository=
+hibernate-entitymanager-5.1.10.Final.jar>jfrog-release=
+hibernate-entitymanager-5.1.10.Final.jar>repo.egovernments.org=
+hibernate-entitymanager-5.1.10.Final.pom>jfrog-release=
+hibernate-entitymanager-5.1.10.Final.pom>repo.egovernments.org=

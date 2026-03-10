@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+hibernate-core-5.1.10.Final-sources.jar>central=
+hibernate-core-5.1.10.Final.jar>jfrog-release=
+hibernate-core-5.1.10.Final.jar>repo.egovernments.org=
+hibernate-core-5.1.10.Final.pom>jfrog-release=
+hibernate-core-5.1.10.Final.pom>repo.egovernments.org=
