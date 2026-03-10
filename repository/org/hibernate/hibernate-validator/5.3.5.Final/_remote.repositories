@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+hibernate-validator-5.3.5.Final-sources.jar>JBoss\ Repository=
+hibernate-validator-5.3.5.Final.jar>jfrog-release=
+hibernate-validator-5.3.5.Final.jar>repo.egovernments.org=
+hibernate-validator-5.3.5.Final.pom>jfrog-release=
+hibernate-validator-5.3.5.Final.pom>repo.egovernments.org=
