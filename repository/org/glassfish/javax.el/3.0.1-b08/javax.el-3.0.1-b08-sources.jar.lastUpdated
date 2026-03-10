@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 21:23:24 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763567602525
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.glassfish\:javax.el\:jar\:sources\:3.0.1-b08 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763567601959
+http\://www.javaxt.com/maven/.lastUpdated=1763567604342
+https\://repository.jboss.org/nexus/content/groups/public/.error=

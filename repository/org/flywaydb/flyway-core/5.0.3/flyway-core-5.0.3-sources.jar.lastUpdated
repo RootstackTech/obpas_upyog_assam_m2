@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:46:45 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771053405367
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771053400876
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.flywaydb\:flyway-core\:jar\:sources\:5.0.3 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/flywaydb/flyway-core/5.0.3/flyway-core-5.0.3-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771053405980
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.flywaydb\:flyway-core\:jar\:sources\:5.0.3 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771053400362
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.flywaydb\:flyway-core\:jar\:sources\:5.0.3 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/flywaydb/flyway-core/5.0.3/flyway-core-5.0.3-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771053300173
+https\://repository.jboss.org/nexus/content/groups/public/.error=

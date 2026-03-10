@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:37:45 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763563103591
+https\://repo.maven.apache.org/maven2/.lastUpdated=1763563104761
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.geotools\:gt-main\:jar\:sources\:2.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763563103150
+http\://www.javaxt.com/maven/.error=
+http\://www.javaxt.com/maven/.lastUpdated=1763563104461
+http\://repository.jspresso.org/maven2/.lastUpdated=1770988065782
+https\://repo.maven.apache.org/maven2/.error=
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.geotools\:gt-main\:jar\:sources\:2.5.4 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/geotools/gt-main/2.5.4/gt-main-2.5.4-sources.jar. Error code 403, Forbidden
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988062019

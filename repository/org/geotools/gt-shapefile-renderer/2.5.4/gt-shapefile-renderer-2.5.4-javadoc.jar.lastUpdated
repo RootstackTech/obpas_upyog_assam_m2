@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 15:07:24 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771054644593
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771054641923
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527108672
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772527112290
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771054642530
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.geotools\:gt-shapefile-renderer\:jar\:javadoc\:2.5.4 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/geotools/gt-shapefile-renderer/2.5.4/gt-shapefile-renderer-2.5.4-javadoc.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771054644975
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.geotools\:gt-shapefile-renderer\:jar\:javadoc\:2.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1772530644297
+http\://releases.aspose.com/repo/.lastUpdated=1772527110896

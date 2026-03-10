@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 18:44:57 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763558096058
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.freemarker\:freemarker\:jar\:sources\:2.3.26-incubating from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763558095531
+http\://www.javaxt.com/maven/.lastUpdated=1763558097313
+https\://repository.jboss.org/nexus/content/groups/public/.error=

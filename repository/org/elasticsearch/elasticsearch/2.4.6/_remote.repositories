@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:03 IST 2026
+elasticsearch-2.4.6-javadoc.jar>JSPRESSO=
+elasticsearch-2.4.6-sources.jar>javaxt.com=
+elasticsearch-2.4.6.jar>jfrog-release=
+elasticsearch-2.4.6.jar>repo.egovernments.org=
+elasticsearch-2.4.6.pom>jfrog-release=
+elasticsearch-2.4.6.pom>repo.egovernments.org=

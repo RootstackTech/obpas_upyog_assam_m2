@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:43 IST 2026
+gt-main-2.5.4-sources.jar>JSPRESSO=
+gt-main-2.5.4.jar>jfrog-release=
+gt-main-2.5.4.jar>repo.egovernments.org=
+gt-main-2.5.4.pom>jfrog-release=
+gt-main-2.5.4.pom>repo.egovernments.org=

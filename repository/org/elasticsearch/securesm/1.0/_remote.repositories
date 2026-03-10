@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+securesm-1.0-javadoc.jar>JSPRESSO=
+securesm-1.0.jar>jfrog-release=
+securesm-1.0.jar>repo.egovernments.org=
+securesm-1.0.pom>jfrog-release=
+securesm-1.0.pom>repo.egovernments.org=

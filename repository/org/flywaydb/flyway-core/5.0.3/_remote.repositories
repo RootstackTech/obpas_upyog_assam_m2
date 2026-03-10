@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+flyway-core-5.0.3-sources.jar>central=
+flyway-core-5.0.3.jar>jfrog-release=
+flyway-core-5.0.3.jar>repo.egovernments.org=
+flyway-core-5.0.3.pom>jfrog-release=
+flyway-core-5.0.3.pom>repo.egovernments.org=

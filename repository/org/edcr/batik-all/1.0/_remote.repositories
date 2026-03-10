@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:58:53 IST 2026
+batik-all-1.0-sources.jar>JSPRESSO=
+batik-all-1.0.jar>jfrog-release=
+batik-all-1.0.jar>repo.egovernments.org=
+batik-all-1.0.pom>jfrog-release=
+batik-all-1.0.pom>repo.egovernments.org=

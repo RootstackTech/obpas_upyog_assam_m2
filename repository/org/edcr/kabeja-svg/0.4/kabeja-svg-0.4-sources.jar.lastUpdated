@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 14:09:17 IST 2026
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763564842963
+http\://www.javaxt.com/maven/.error=
+http\://www.javaxt.com/maven/.lastUpdated=1763564844408
+http\://repository.jspresso.org/maven2/.lastUpdated=1772527157908
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527131162
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772524474162
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763564843593
+https\://repo.maven.apache.org/maven2/.lastUpdated=1763564844520
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.edcr\:kabeja-svg\:jar\:sources\:0.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://releases.aspose.com/repo/.lastUpdated=1772524472908

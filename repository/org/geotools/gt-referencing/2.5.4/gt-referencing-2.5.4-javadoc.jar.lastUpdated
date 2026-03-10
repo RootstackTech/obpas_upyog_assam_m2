@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:03:58 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771054435944
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.geotools\:gt-referencing\:jar\:javadoc\:2.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771054435188
+http\://repository.jspresso.org/maven2/.lastUpdated=1771054438191
+https\://repository.jboss.org/nexus/content/groups/public/.error=
