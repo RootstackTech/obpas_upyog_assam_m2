@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 19:10:53 IST 2026
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1763578699699
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:sources\:4.3.11.RELEASE from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: repo.egovernments.org
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763578699512
+http\://www.javaxt.com/maven/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:sources\:4.3.11.RELEASE from/to javaxt.com (http\://www.javaxt.com/maven)\: No connector factories available
+@default-JBoss\ Repository-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763578699597
+http\://repository.jspresso.org/maven2/.lastUpdated=1770990053182
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:sources\:4.3.11.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: No connector factories available
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:sources\:4.3.11.RELEASE from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/springframework/spring-expression/4.3.11.RELEASE/spring-expression-4.3.11.RELEASE-sources.jar. Error code 403, Forbidden
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-expression\:jar\:sources\:4.3.11.RELEASE from/to JBoss Repository (https\://repository.jboss.org/nexus/content/groups/public/)\: No connector factories available
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770990050752
+@default-javaxt.com-http\://www.javaxt.com/maven/.lastUpdated=1763578699649

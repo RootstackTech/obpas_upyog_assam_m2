@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:09:35 IST 2026
+@default-insecure-repo-http\://repo.egov.org.in/nexus/content/groups/public/.lastUpdated=1772526041035
+http\://3.111.119.239\:8082/artifactory/libs-release/.lastUpdated=1773153575264
+http\://repo.egov.org.in/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:4.3.11.RELEASE from/to insecure-repo (http\://repo.egov.org.in/nexus/content/groups/public/)\: connect timed out
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772526041695
+https\://www.javaxt.com/maven/.lastUpdated=1772526043149

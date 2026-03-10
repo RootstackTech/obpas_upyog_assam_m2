@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:24:31 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771055669587
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771055667422
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.springframework\:spring-messaging\:jar\:javadoc\:4.3.11.RELEASE from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/springframework/spring-messaging/4.3.11.RELEASE/spring-messaging-4.3.11.RELEASE-javadoc.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771055671584
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-messaging\:jar\:javadoc\:4.3.11.RELEASE from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771055666809
+https\://repository.jboss.org/nexus/content/groups/public/.error=

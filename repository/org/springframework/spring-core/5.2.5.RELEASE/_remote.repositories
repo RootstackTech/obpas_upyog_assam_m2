@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 27 20:03:20 IST 2025
+spring-core-5.2.5.RELEASE-sources.jar>central=
+spring-core-5.2.5.RELEASE.jar>central=
+spring-core-5.2.5.RELEASE.jar>repo.egovernments.org=
+spring-core-5.2.5.RELEASE.pom>repo.egovernments.org.public=
+spring-core-5.2.5.RELEASE.pom>repo.egovernments.org=
+spring-core-5.2.5.RELEASE-sources.jar>repo.egovernments.org=
+spring-core-5.2.5.RELEASE.jar>repo.egovernments.org.public=
