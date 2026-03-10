@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 15:06:52 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770988269948
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763561977876
+http\://www.javaxt.com/maven/.error=
+http\://www.javaxt.com/maven/.lastUpdated=1763561979155
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988269174
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527058163
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772524450604
+https\://repo.maven.apache.org/maven2/.lastUpdated=1758036757713
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763561978338
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact ar.com.fdvs\:DynamicJasper\:jar\:sources\:5.0.2 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/ar/com/fdvs/DynamicJasper/5.0.2/DynamicJasper-5.0.2-sources.jar. Error code 429, Too Many Requests
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact ar.com.fdvs\:DynamicJasper\:jar\:sources\:5.0.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact ar.com.fdvs\:DynamicJasper\:jar\:sources\:5.0.2 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/ar/com/fdvs/DynamicJasper/5.0.2/DynamicJasper-5.0.2-sources.jar. Error code 403, Forbidden
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1772530612551
+http\://releases.aspose.com/repo/.lastUpdated=1772524449372

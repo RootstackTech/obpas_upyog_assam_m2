@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 19:15:40 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763559939680
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact aopalliance\:aopalliance\:jar\:sources\:1.0 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763559939179
+http\://www.javaxt.com/maven/.lastUpdated=1763559940567
+https\://repository.jboss.org/nexus/content/groups/public/.error=
