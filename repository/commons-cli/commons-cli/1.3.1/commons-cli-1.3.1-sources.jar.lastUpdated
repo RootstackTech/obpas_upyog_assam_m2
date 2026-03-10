@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:29:06 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771048743222
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:sources\:1.3.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771048742631
+http\://repository.jspresso.org/maven2/.lastUpdated=1771048746614
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact commons-cli\:commons-cli\:jar\:sources\:1.3.1 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/commons-cli/commons-cli/1.3.1/commons-cli-1.3.1-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771048642422
+https\://repository.jboss.org/nexus/content/groups/public/.error=

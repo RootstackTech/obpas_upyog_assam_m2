@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 17 13:30:50 IST 2025
+commons-codec-1.11.jar>repo.egovernments.org=
+commons-codec-1.11.pom>repo.egovernments.org=
+commons-codec-1.11.jar>central=
+commons-codec-1.11.pom>central=
+commons-codec-1.11-sources.jar>central=

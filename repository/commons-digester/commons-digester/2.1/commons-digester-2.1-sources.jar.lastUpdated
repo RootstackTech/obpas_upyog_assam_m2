@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 20:33:59 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763564637782
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact commons-digester\:commons-digester\:jar\:sources\:2.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763564637146
+http\://www.javaxt.com/maven/.lastUpdated=1763564639311
+https\://repository.jboss.org/nexus/content/groups/public/.error=

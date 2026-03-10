@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:22:45 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771055565631
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771055564898
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact commons-digester\:commons-digester\:jar\:sources\:2.0 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771055565923
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact commons-digester\:commons-digester\:jar\:sources\:2.0 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771055564335
+https\://repository.jboss.org/nexus/content/groups/public/.error=

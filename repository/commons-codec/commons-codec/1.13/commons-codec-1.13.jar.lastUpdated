@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 23 17:49:51 IST 2025
+https\://nexus-repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1735815150575
+http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1735815282816
+https\://nexus-repo.egovernments.org/nexus/content/repositories/releases/.lastUpdated=1735815134459
+https\://repo.maven.apache.org/maven2/.lastUpdated=1748002791806
+https\://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/.error=
+https\://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/.lastUpdated=1735815137925
+https\://nexus-repo.egovernments.org/nexus/content/repositories/releases/.error=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:43:43 IST 2026
+commons-cli-1.0.jar>central=
+commons-cli-1.0.jar>repo.egovernments.org=
+commons-cli-1.0.pom>central=
+commons-cli-1.0.pom>repo.egovernments.org=
