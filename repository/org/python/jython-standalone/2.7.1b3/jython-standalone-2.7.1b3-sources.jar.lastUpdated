@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:25:45 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771052142486
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.python\:jython-standalone\:jar\:sources\:2.7.1b3 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771052141918
+http\://repository.jspresso.org/maven2/.lastUpdated=1771052145042
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.python\:jython-standalone\:jar\:sources\:2.7.1b3 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/python/jython-standalone/2.7.1b3/jython-standalone-2.7.1b3-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771052041803
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 10 13:59:51 IST 2025
+aether-api-1.7.jar>repo.egovernments.org=
+aether-api-1.7.jar>central=
+aether-api-1.7.pom>repo.egovernments.org=
+aether-api-1.7.pom>central=

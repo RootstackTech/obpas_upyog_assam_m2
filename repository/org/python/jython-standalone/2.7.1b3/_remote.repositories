@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+jython-standalone-2.7.1b3-sources.jar>JSPRESSO=
+jython-standalone-2.7.1b3.jar>jfrog-release=
+jython-standalone-2.7.1b3.jar>repo.egovernments.org=
+jython-standalone-2.7.1b3.pom>jfrog-release=
+jython-standalone-2.7.1b3.pom>repo.egovernments.org=
