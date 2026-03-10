@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:52:36 IST 2026
+http\://3.111.119.239\:8082/artifactory/libs-release/.error=
+http\://3.111.119.239\:8082/artifactory/libs-release/.lastUpdated=1773153602699
+http\://3.111.119.239\:8082/artifactory/libs-snapshot/.error=
+http\://3.111.119.239\:8082/artifactory/libs-snapshot/.lastUpdated=1773153605247
+http\://repo.egovernments.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1739340349092
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1773153606000
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1739340351297
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1773156156033

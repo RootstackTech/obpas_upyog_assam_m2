@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 19:21:41 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763567197057
+https\://repo.maven.apache.org/maven2/.lastUpdated=1763567199316
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.taglibs\:taglibs-standard-impl\:jar\:sources\:1.2.6-RC1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763567196508
+http\://www.javaxt.com/maven/.error=
+http\://www.javaxt.com/maven/.lastUpdated=1763567199184
+http\://repository.jspresso.org/maven2/.lastUpdated=1770990701410
+https\://repo.maven.apache.org/maven2/.error=
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.apache.taglibs\:taglibs-standard-impl\:jar\:sources\:1.2.6-RC1 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/apache/taglibs/taglibs-standard-impl/1.2.6-RC1/taglibs-standard-impl-1.2.6-RC1-sources.jar. Error code 403, Forbidden
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770990696087
