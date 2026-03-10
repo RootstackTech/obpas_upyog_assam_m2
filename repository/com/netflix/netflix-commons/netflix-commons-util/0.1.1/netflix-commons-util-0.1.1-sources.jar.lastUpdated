@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:55:23 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771053922780
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771053922048
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.netflix.netflix-commons\:netflix-commons-util\:jar\:sources\:0.1.1 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771053923205
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.netflix.netflix-commons\:netflix-commons-util\:jar\:sources\:0.1.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771053921439
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.netflix.netflix-commons\:netflix-commons-util\:jar\:sources\:0.1.1 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771053821214
+https\://repository.jboss.org/nexus/content/groups/public/.error=

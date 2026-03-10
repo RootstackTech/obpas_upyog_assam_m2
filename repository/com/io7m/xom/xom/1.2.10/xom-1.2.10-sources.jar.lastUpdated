@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 14:02:11 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772526729461
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.io7m.xom\:xom\:jar\:sources\:1.2.10 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772526728858
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772526731522
+http\://releases.aspose.com/repo/.lastUpdated=1772526730014

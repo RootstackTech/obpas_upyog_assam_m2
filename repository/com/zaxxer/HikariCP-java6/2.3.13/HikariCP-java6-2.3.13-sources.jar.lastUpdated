@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 19:32:40 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763560959545
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.zaxxer\:HikariCP-java6\:jar\:sources\:2.3.13 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763560959023
+http\://www.javaxt.com/maven/.lastUpdated=1763560960639
+https\://repository.jboss.org/nexus/content/groups/public/.error=

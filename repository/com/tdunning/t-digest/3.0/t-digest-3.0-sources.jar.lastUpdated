@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:25:33 IST 2026
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.tdunning\:t-digest\:jar\:sources\:3.0 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: repo.egovernments.org
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771048514903
+@default-JBoss\ Repository-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771048515067
+http\://repository.jspresso.org/maven2/.lastUpdated=1771048533736
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.tdunning\:t-digest\:jar\:sources\:3.0 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: artifactorypg.paytm.in
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771048514788
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.tdunning\:t-digest\:jar\:sources\:3.0 from/to JBoss Repository (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org

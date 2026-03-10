@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:38:16 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771056494097
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771056493315
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.orange.redis-embedded\:embedded-redis\:jar\:javadoc\:0.6 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/com/orange/redis-embedded/embedded-redis/0.6/embedded-redis-0.6-javadoc.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771056496975
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.orange.redis-embedded\:embedded-redis\:jar\:javadoc\:0.6 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771056492500
+https\://repository.jboss.org/nexus/content/groups/public/.error=

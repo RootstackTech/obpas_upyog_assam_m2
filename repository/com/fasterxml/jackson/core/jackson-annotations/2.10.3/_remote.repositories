@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 23 17:49:31 IST 2025
+jackson-annotations-2.10.3-sources.jar>repo.egovernments.org=
+jackson-annotations-2.10.3.jar>repo.egovernments.org.public=
+jackson-annotations-2.10.3.jar>central=
+jackson-annotations-2.10.3.pom>repo.egovernments.org.public=
+jackson-annotations-2.10.3.jar>repo.egovernments.org=
+jackson-annotations-2.10.3.pom>repo.egovernments.org=

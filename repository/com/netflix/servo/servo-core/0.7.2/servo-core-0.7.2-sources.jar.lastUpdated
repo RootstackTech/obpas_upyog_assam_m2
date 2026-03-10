@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:53:39 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771053819359
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771053818794
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.netflix.servo\:servo-core\:jar\:sources\:0.7.2 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/com/netflix/servo/servo-core/0.7.2/servo-core-0.7.2-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771053819608
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.netflix.servo\:servo-core\:jar\:sources\:0.7.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771053817408
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.netflix.servo\:servo-core\:jar\:sources\:0.7.2 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/netflix/servo/servo-core/0.7.2/servo-core-0.7.2-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771053717245
+https\://repository.jboss.org/nexus/content/groups/public/.error=

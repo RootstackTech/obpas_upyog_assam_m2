@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:16:57 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771051615071
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.jhlabs\:filters\:jar\:sources\:2.0.235-1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771051614446
+http\://repository.jspresso.org/maven2/.lastUpdated=1771051617682
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.jhlabs\:filters\:jar\:sources\:2.0.235-1 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/jhlabs/filters/2.0.235-1/filters-2.0.235-1-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771051514313
+https\://repository.jboss.org/nexus/content/groups/public/.error=

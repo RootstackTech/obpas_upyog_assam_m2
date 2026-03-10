@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+jcommander-1.48-sources.jar>JSPRESSO=
+jcommander-1.48.jar>jfrog-release=
+jcommander-1.48.jar>repo.egovernments.org=
+jcommander-1.48.pom>jfrog-release=
+jcommander-1.48.pom>repo.egovernments.org=

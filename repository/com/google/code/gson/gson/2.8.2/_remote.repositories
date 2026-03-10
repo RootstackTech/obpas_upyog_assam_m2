@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+gson-2.8.2-sources.jar>JSPRESSO=
+gson-2.8.2.jar>jfrog-release=
+gson-2.8.2.jar>repo.egovernments.org=
+gson-2.8.2.jar>repo.egovernments.org.public=
+gson-2.8.2.pom>jfrog-release=
+gson-2.8.2.pom>repo.egovernments.org=
+gson-2.8.2.pom>repo.egovernments.org.public=

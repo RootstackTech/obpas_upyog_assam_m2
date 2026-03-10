@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+jsr166e-1.1.0-sources.jar>JSPRESSO=
+jsr166e-1.1.0.jar>jfrog-release=
+jsr166e-1.1.0.jar>repo.egovernments.org=
+jsr166e-1.1.0.pom>jfrog-release=
+jsr166e-1.1.0.pom>repo.egovernments.org=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:43 IST 2026
+jts-1.6.jar>jfrog-release=
+jts-1.6.jar>repo.egovernments.org=
+jts-1.6.pom>jfrog-release=
+jts-1.6.pom>repo.egovernments.org=

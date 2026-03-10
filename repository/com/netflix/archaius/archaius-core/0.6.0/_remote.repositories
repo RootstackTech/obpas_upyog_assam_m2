@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+archaius-core-0.6.0-sources.jar>central=
+archaius-core-0.6.0.jar>jfrog-release=
+archaius-core-0.6.0.jar>repo.egovernments.org=
+archaius-core-0.6.0.pom>jfrog-release=
+archaius-core-0.6.0.pom>repo.egovernments.org=

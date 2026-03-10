@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:32:33 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771048950977
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.guava\:guava\:jar\:sources\:23.2-jre from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771048950510
+http\://repository.jspresso.org/maven2/.lastUpdated=1771048953145
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.google.guava\:guava\:jar\:sources\:23.2-jre from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/google/guava/guava/23.2-jre/guava-23.2-jre-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771048850223
+https\://repository.jboss.org/nexus/content/groups/public/.error=

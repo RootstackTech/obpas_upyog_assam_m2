@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 18:58:40 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763558917621
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.jgeppert.struts2.jquery\:struts2-jquery-plugin\:jar\:sources\:4.0.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763558916999
+http\://www.javaxt.com/maven/.lastUpdated=1763558920515
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+filters-2.0.235-1-sources.jar>JSPRESSO=
+filters-2.0.235-1.jar>jfrog-release=
+filters-2.0.235-1.jar>repo.egovernments.org=
+filters-2.0.235-1.pom>jfrog-release=
+filters-2.0.235-1.pom>repo.egovernments.org=

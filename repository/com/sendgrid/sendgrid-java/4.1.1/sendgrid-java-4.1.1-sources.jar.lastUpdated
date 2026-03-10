@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:41:07 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770988264907
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770988264010
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.sendgrid\:sendgrid-java\:jar\:sources\:4.1.1 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/com/sendgrid/sendgrid-java/4.1.1/sendgrid-java-4.1.1-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770988267300
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.sendgrid\:sendgrid-java\:jar\:sources\:4.1.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770988263442
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.sendgrid\:sendgrid-java\:jar\:sources\:4.1.1 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/sendgrid/sendgrid-java/4.1.1/sendgrid-java-4.1.1-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988163337
+https\://repository.jboss.org/nexus/content/groups/public/.error=

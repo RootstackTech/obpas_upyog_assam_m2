@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.vividsolutions</groupId>
+  <artifactId>jts</artifactId>
+  <name>Java Topology Suite</name>
+  <version>1.6</version>
+</project>

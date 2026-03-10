@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:50:12 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771050008979
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.github.jai-imageio\:jai-imageio-core\:jar\:sources\:1.3.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771050007999
+http\://repository.jspresso.org/maven2/.lastUpdated=1771050012654
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.github.jai-imageio\:jai-imageio-core\:jar\:sources\:1.3.1 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/github/jai-imageio/jai-imageio-core/1.3.1/jai-imageio-core-1.3.1-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771049907834
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:59:07 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771050543771
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.thoughtworks.paranamer\:paranamer\:jar\:sources\:2.8 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771050543201
+http\://repository.jspresso.org/maven2/.lastUpdated=1771050547591
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.thoughtworks.paranamer\:paranamer\:jar\:sources\:2.8 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771050443069
+https\://repository.jboss.org/nexus/content/groups/public/.error=

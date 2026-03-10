@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 15:07:28 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771057442170
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1771057442204
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771057442107
+@default-JBoss\ Repository-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771057442140
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:javadoc\:2.0.0 from/to JBoss Repository (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527077840
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772527079478
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:javadoc\:2.0.0 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: repository.jspresso.org
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:javadoc\:2.0.0 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: No route to host\: no further information
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.code.findbugs\:annotations\:jar\:javadoc\:2.0.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1772530648152
+http\://releases.aspose.com/repo/.lastUpdated=1772527078276

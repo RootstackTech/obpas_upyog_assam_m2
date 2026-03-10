@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+servo-core-0.7.2-sources.jar>central=
+servo-core-0.7.2.jar>jfrog-release=
+servo-core-0.7.2.jar>repo.egovernments.org=
+servo-core-0.7.2.pom>jfrog-release=
+servo-core-0.7.2.pom>repo.egovernments.org=

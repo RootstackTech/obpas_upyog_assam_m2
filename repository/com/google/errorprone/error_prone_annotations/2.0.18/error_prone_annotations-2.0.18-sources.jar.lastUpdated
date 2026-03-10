@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:36:04 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771049160472
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.errorprone\:error_prone_annotations\:jar\:sources\:2.0.18 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771049159936
+http\://repository.jspresso.org/maven2/.lastUpdated=1771049164163
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.google.errorprone\:error_prone_annotations\:jar\:sources\:2.0.18 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771049059751
+https\://repository.jboss.org/nexus/content/groups/public/.error=

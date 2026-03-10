@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:48 IST 2026
+classmate-1.3.1-sources.jar>repo.egovernments.org=
+classmate-1.3.1.jar>jfrog-release=
+classmate-1.3.1.jar>repo.egovernments.org=
+classmate-1.3.1.pom>jfrog-release=
+classmate-1.3.1.pom>repo.egovernments.org=

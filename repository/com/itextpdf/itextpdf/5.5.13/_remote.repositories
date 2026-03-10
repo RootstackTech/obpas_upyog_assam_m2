@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 11 23:03:45 IST 2025
+itextpdf-5.5.13-sources.jar>repo.egovernments.org=
+itextpdf-5.5.13.jar>repo.egovernments.org=
+itextpdf-5.5.13.pom>repo.egovernments.org=
+itextpdf-5.5.13>JSPRESSO=

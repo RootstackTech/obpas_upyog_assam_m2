@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:03 IST 2026
+embedded-redis-0.6-javadoc.jar>central=
+embedded-redis-0.6-sources.jar>javaxt.com=
+embedded-redis-0.6.jar>jfrog-release=
+embedded-redis-0.6.jar>repo.egovernments.org=
+embedded-redis-0.6.pom>jfrog-release=
+embedded-redis-0.6.pom>repo.egovernments.org=

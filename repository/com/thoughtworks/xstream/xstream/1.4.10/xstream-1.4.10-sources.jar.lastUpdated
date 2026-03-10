@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 19:03:47 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763559225412
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream\:jar\:sources\:1.4.10 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763559224818
+http\://www.javaxt.com/maven/.lastUpdated=1763559227060
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 12 22:20:03 IST 2025
+guava-18.0.pom>central=
+guava-18.0.pom>repo.egovernments.org.public=
+guava-18.0.jar>repo.egovernments.org.public=
+guava-18.0-sources.jar>repo.egovernments.org.public=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 17:53:45 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770985420373
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.sendgrid\:sendgrid-java\:jar\:4.1.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770985419189
+http\://repository.jspresso.org/maven2/.lastUpdated=1770985425580
+https\://repository.jboss.org/nexus/content/groups/public/.error=

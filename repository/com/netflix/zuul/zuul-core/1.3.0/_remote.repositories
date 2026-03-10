@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+zuul-core-1.3.0-sources.jar>central=
+zuul-core-1.3.0.jar>jfrog-release=
+zuul-core-1.3.0.jar>repo.egovernments.org=
+zuul-core-1.3.0.pom>jfrog-release=
+zuul-core-1.3.0.pom>repo.egovernments.org=

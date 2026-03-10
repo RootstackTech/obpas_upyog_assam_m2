@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:54:00 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771057440353
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.dataformat\:jackson-dataformat-yaml\:jar\:javadoc\:2.9.2 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: repository.jspresso.org
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1771057440383
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.dataformat\:jackson-dataformat-yaml\:jar\:javadoc\:2.9.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: No route to host\: no further information
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771057440301
+@default-JBoss\ Repository-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771057440330
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.dataformat\:jackson-dataformat-yaml\:jar\:javadoc\:2.9.2 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.dataformat\:jackson-dataformat-yaml\:jar\:javadoc\:2.9.2 from/to JBoss Repository (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org

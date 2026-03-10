@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:46:42 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771049796781
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.zxing\:javase\:jar\:sources\:3.3.0 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771049796195
+http\://repository.jspresso.org/maven2/.lastUpdated=1771049802156
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.google.zxing\:javase\:jar\:sources\:3.3.0 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/google/zxing/javase/3.3.0/javase-3.3.0-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771049696053
+https\://repository.jboss.org/nexus/content/groups/public/.error=

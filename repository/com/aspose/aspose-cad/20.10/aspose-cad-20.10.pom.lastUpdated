@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:58:47 IST 2026
+1725debf38749785a7ef4aafbfcf1dd284f00acf@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772524140844
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1773156527075
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1773154005241
+http\://3.111.119.239\:8082/artifactory/libs-release/.error=
+http\://3.111.119.239\:8082/artifactory/libs-release/.lastUpdated=1773153577457
+http\://3.111.119.239\:8082/artifactory/libs-snapshot/.error=
+http\://3.111.119.239\:8082/artifactory/libs-snapshot/.lastUpdated=1773153577665
+http\://releases.aspose.com/repo/.lastUpdated=1772524146312
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.aspose\:aspose-cad\:pom\:20.10 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect to repo.egovernments.org\:80 [repo.egovernments.org/104.211.218.120] failed\: Connect timed out
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.aspose\:aspose-cad\:pom\:20.10 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Connection reset
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1773119783508
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1773119785841
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1773119784296
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1773059616775
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1773119785737

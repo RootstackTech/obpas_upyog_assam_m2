@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:02:45 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771050752327
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.carrotsearch\:java-sizeof\:jar\:sources\:0.0.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771050751776
+http\://repository.jspresso.org/maven2/.lastUpdated=1771050765853
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.carrotsearch\:java-sizeof\:jar\:sources\:0.0.4 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/carrotsearch/java-sizeof/0.0.4/java-sizeof-0.0.4-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771050651645
+https\://repository.jboss.org/nexus/content/groups/public/.error=

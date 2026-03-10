@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:55:36 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771050332933
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:sources\:2.8.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771050332385
+http\://repository.jspresso.org/maven2/.lastUpdated=1771050336191
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact com.google.code.gson\:gson\:jar\:sources\:2.8.2 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/com/google/code/gson/gson/2.8.2/gson-2.8.2-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771050232192
+https\://repository.jboss.org/nexus/content/groups/public/.error=

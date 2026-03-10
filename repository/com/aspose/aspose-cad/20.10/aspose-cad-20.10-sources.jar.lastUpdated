@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 14:10:03 IST 2026
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772524579079
+http\://repository.jspresso.org/maven2/.lastUpdated=1772527203415
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527063003
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772524583455
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772524580510
+https\://repo.maven.apache.org/maven2/.lastUpdated=1772524583588
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.aspose\:aspose-cad\:jar\:sources\:20.10 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://releases.aspose.com/repo/.lastUpdated=1772524582085

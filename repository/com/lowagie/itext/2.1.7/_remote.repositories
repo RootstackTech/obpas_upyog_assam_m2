@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+itext-2.1.7-sources.jar>repo.egovernments.org=
+itext-2.1.7.jar>jfrog-release=
+itext-2.1.7.jar>repo.egovernments.org=
+itext-2.1.7.jar>repo.egovernments.org.public=
+itext-2.1.7.pom>jfrog-release=
+itext-2.1.7.pom>repo.egovernments.org=
+itext-2.1.7.pom>repo.egovernments.org.public=

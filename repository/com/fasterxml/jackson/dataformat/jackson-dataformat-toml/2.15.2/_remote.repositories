@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 07 22:08:45 IST 2025
+jackson-dataformat-toml-2.15.2-sources.jar>repo.egovernments.org.public=
+jackson-dataformat-toml-2.15.2.pom>repo.egovernments.org.public=
+jackson-dataformat-toml-2.15.2.jar>repo.egovernments.org.public=

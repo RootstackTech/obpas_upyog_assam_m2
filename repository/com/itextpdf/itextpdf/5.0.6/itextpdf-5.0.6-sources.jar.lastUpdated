@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 20:42:31 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763565150226
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact com.itextpdf\:itextpdf\:jar\:sources\:5.0.6 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763565149673
+http\://www.javaxt.com/maven/.lastUpdated=1763565151927
+https\://repository.jboss.org/nexus/content/groups/public/.error=
