@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:54:58 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770989098355
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.marshalling\:jboss-marshalling-osgi\:jar\:sources\:1.4.10.Final from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770989096403
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.jboss.marshalling\:jboss-marshalling-osgi\:jar\:sources\:1.4.10.Final from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/jboss/marshalling/jboss-marshalling-osgi/1.4.10.Final/jboss-marshalling-osgi-1.4.10.Final-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988996212

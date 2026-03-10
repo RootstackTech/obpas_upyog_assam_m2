@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+jboss-logging-3.3.0.Final-sources.jar>JBoss\ Repository=
+jboss-logging-3.3.0.Final.jar>jfrog-release=
+jboss-logging-3.3.0.Final.jar>repo.egovernments.org=
+jboss-logging-3.3.0.Final.pom>jfrog-release=
+jboss-logging-3.3.0.Final.pom>repo.egovernments.org=

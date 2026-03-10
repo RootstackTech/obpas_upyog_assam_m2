@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+javassist-3.20.0-GA-sources.jar>javaxt.com=
+javassist-3.20.0-GA.jar>jfrog-release=
+javassist-3.20.0-GA.jar>repo.egovernments.org=
+javassist-3.20.0-GA.pom>jfrog-release=
+javassist-3.20.0-GA.pom>repo.egovernments.org=
+javassist-3.20.0-GA.pom>repo.egovernments.org.public=

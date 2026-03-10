@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:43:00 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770988380671
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770988378410
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.json\:json\:jar\:sources\:20141113 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/json/json/20141113/json-20141113-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770988380874
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.json\:json\:jar\:sources\:20141113 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770988377102
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.json\:json\:jar\:sources\:20141113 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/json/json/20141113/json-20141113-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988276994
+https\://repository.jboss.org/nexus/content/groups/public/.error=

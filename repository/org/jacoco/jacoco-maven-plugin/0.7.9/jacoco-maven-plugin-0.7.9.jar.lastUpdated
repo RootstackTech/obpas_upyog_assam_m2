@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 17:36:33 IST 2026
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770984393363
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.jacoco\:jacoco-maven-plugin\:jar\:0.7.9 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770984392514

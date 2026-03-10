@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 17:55:30 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770985528080
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.json\:json\:pom\:20141113 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770985527600
+http\://repository.jspresso.org/maven2/.lastUpdated=1770985530465
+https\://repository.jboss.org/nexus/content/groups/public/.error=

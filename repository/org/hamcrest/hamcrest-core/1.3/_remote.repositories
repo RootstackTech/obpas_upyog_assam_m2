@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:27:29 IST 2026
+hamcrest-core-1.3.pom>central=
+hamcrest-core-1.3-sources.jar>JSPRESSO=
+hamcrest-core-1.3.jar>central=
+hamcrest-core-1.3.jar>repo.egovernments.org=
+hamcrest-core-1.3.pom>repo.egovernments.org=

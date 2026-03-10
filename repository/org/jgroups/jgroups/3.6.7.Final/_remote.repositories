@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+jgroups-3.6.7.Final-sources.jar>JBoss\ Repository=
+jgroups-3.6.7.Final.jar>jfrog-release=
+jgroups-3.6.7.Final.jar>repo.egovernments.org=
+jgroups-3.6.7.Final.pom>jfrog-release=
+jgroups-3.6.7.Final.pom>repo.egovernments.org=

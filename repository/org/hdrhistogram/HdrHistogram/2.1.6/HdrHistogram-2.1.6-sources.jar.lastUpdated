@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:27:21 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771048638085
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.hdrhistogram\:HdrHistogram\:jar\:sources\:2.1.6 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771048636910
+http\://repository.jspresso.org/maven2/.lastUpdated=1771048641807
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.hdrhistogram\:HdrHistogram\:jar\:sources\:2.1.6 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/hdrhistogram/HdrHistogram/2.1.6/HdrHistogram-2.1.6-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771048536290
+https\://repository.jboss.org/nexus/content/groups/public/.error=

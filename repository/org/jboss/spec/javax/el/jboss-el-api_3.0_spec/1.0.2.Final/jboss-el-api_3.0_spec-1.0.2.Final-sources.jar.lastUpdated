@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 21:20:00 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763567400916
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.spec.javax.el\:jboss-el-api_3.0_spec\:jar\:sources\:1.0.2.Final from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763567400209

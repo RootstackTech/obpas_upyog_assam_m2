@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Sep 12 22:20:01 IST 2025
+javassist-3.21.0-GA.jar>repo.egovernments.org.public=
+javassist-3.21.0-GA.pom>repo.egovernments.org.public=
+javassist-3.21.0-GA-sources.jar>repo.egovernments.org.public=
