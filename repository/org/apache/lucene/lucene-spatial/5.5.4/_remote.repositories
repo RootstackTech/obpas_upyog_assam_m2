@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+lucene-spatial-5.5.4-sources.jar>javaxt.com=
+lucene-spatial-5.5.4.jar>jfrog-release=
+lucene-spatial-5.5.4.jar>repo.egovernments.org=
+lucene-spatial-5.5.4.pom>jfrog-release=
+lucene-spatial-5.5.4.pom>repo.egovernments.org=

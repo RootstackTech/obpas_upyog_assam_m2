@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 17 13:31:08 IST 2025
+surefire-api-2.12.4.jar>repo.egovernments.org=
+surefire-api-2.12.4.pom>repo.egovernments.org=

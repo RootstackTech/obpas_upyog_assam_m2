@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:28:27 IST 2026
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770987507901
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.surefire\:surefire\:pom\:2.20.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770987507778

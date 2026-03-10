@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 10 13:59:34 IST 2025
+maven-surefire-plugin-2.22.2.jar>repo.egovernments.org=
+maven-surefire-plugin-2.22.2.jar>central=
+maven-surefire-plugin-2.22.2.pom>central=
+maven-surefire-plugin-2.22.2.pom>repo.egovernments.org=

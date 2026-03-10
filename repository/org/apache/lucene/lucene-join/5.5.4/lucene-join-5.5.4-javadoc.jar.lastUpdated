@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:51:55 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771057315427
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.apache.lucene\:lucene-join\:jar\:javadoc\:5.5.4 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: repository.jspresso.org
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1771057315648
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.lucene\:lucene-join\:jar\:javadoc\:5.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: No route to host\: no further information
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771057315331
+@default-JBoss\ Repository-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771057315380
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.lucene\:lucene-join\:jar\:javadoc\:5.5.4 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.lucene\:lucene-join\:jar\:javadoc\:5.5.4 from/to JBoss Repository (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:43:42 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771056817142
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.lucene\:lucene-backward-codecs\:jar\:javadoc\:5.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771056816595
+http\://repository.jspresso.org/maven2/.lastUpdated=1771056822645
+https\://repository.jboss.org/nexus/content/groups/public/.error=

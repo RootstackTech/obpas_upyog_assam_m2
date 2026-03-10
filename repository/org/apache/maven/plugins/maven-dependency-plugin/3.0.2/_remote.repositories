@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 10 12:46:38 IST 2025
+maven-dependency-plugin-3.0.2.jar>repo.egovernments.org=
+maven-dependency-plugin-3.0.2.pom>repo.egovernments.org=

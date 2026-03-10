@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:48:56 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771057136102
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771057135404
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.apache.lucene\:lucene-memory\:jar\:javadoc\:5.5.4 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/apache/lucene/lucene-memory/5.5.4/lucene-memory-5.5.4-javadoc.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771057136892
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.lucene\:lucene-memory\:jar\:javadoc\:5.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771057134758
+https\://repository.jboss.org/nexus/content/groups/public/.error=

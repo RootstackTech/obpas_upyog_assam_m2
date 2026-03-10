@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 21:22:48 IST 2026
+maven-ear-plugin-2.10.1.jar>central=
+maven-ear-plugin-2.10.1.jar>repo.egovernments.org=
+maven-ear-plugin-2.10.1.pom>repo.egovernments.org=

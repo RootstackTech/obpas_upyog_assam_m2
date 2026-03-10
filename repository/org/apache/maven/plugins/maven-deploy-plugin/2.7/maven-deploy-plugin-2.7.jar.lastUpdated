@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 18:22:06 IST 2025
+https\://repo.maven.apache.org/maven2/.lastUpdated=1763556726482
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-deploy-plugin\:jar\:2.7 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763556725702

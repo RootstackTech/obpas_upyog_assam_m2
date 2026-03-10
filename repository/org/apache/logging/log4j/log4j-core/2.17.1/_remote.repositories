@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:43 IST 2026
+log4j-core-2.17.1-sources.jar>javaxt.com=
+log4j-core-2.17.1.jar>jfrog-release=
+log4j-core-2.17.1.jar>repo.egovernments.org=
+log4j-core-2.17.1.pom>jfrog-release=
+log4j-core-2.17.1.pom>repo.egovernments.org=

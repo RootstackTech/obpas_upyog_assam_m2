@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 10 13:59:34 IST 2025
+maven-jar-plugin-3.1.2.jar>central=
+maven-jar-plugin-3.1.2.pom>central=
+maven-jar-plugin-3.1.2.jar>repo.egovernments.org=
+maven-jar-plugin-3.1.2.pom>repo.egovernments.org=

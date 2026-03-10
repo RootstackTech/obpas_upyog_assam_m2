@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:41:56 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771056711142
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.lucene\:lucene-core\:jar\:javadoc\:5.5.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771056710558
+http\://repository.jspresso.org/maven2/.lastUpdated=1771056716442
+https\://repository.jboss.org/nexus/content/groups/public/.error=

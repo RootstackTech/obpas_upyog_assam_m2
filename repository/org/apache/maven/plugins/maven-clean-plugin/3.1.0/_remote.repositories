@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 10 13:59:33 IST 2025
+maven-clean-plugin-3.1.0.jar>repo.egovernments.org=
+maven-clean-plugin-3.1.0.pom>repo.egovernments.org=
+maven-clean-plugin-3.1.0.jar>central=
+maven-clean-plugin-3.1.0.pom>central=
