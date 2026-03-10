@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:18:44 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771051718642
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact javaxt\:javaxt-core\:jar\:sources\:1.7.8 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771051718134
+http\://repository.jspresso.org/maven2/.lastUpdated=1771051724234
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact javaxt\:javaxt-core\:jar\:sources\:1.7.8 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/javaxt/javaxt-core/1.7.8/javaxt-core-1.7.8-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771051617974
+https\://repository.jboss.org/nexus/content/groups/public/.error=

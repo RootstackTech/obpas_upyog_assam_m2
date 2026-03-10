@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 23 17:49:36 IST 2025
+junit-4.12-sources.jar>repo.egovernments.org=
+junit-4.12.jar>central=
+junit-4.12.jar>repo.egovernments.org=
+junit-4.12.pom>repo.egovernments.org.public=
+junit-4.12.pom>central=
+junit-4.12.pom>repo.egovernments.org=

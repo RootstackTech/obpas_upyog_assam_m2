@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 10 13:59:45 IST 2025
+jakarta.transaction-api-1.3.3.jar>central=
+jakarta.transaction-api-1.3.3.jar>repo.egovernments.org=
+jakarta.transaction-api-1.3.3.pom>central=
+jakarta.transaction-api-1.3.3.jar>repo.egovernments.org.public=
+jakarta.transaction-api-1.3.3.pom>repo.egovernments.org=
+jakarta.transaction-api-1.3.3.pom>repo.egovernments.org.public=
+jakarta.transaction-api-1.3.3-sources.jar>repo.egovernments.org=

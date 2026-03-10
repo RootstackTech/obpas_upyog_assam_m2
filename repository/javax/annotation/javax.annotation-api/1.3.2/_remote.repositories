@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+javax.annotation-api-1.3.2-sources.jar>javaxt.com=
+javax.annotation-api-1.3.2.jar>jfrog-release=
+javax.annotation-api-1.3.2.jar>repo.egovernments.org=
+javax.annotation-api-1.3.2.pom>jfrog-release=
+javax.annotation-api-1.3.2.pom>repo.egovernments.org=

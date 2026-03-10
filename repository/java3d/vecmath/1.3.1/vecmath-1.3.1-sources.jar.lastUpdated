@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 15:06:51 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770988163067
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763564127333
+http\://www.javaxt.com/maven/.error=
+http\://www.javaxt.com/maven/.lastUpdated=1763564128888
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988151135
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527062054
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772524470710
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763564128160
+https\://repo.maven.apache.org/maven2/.lastUpdated=1763564129021
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact java3d\:vecmath\:jar\:sources\:1.3.1 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/java3d/vecmath/1.3.1/vecmath-1.3.1-sources.jar. Error code 429, Too Many Requests
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact java3d\:vecmath\:jar\:sources\:1.3.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact java3d\:vecmath\:jar\:sources\:1.3.1 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/java3d/vecmath/1.3.1/vecmath-1.3.1-sources.jar. Error code 403, Forbidden
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1772530611085
+http\://releases.aspose.com/repo/.lastUpdated=1772524469384
