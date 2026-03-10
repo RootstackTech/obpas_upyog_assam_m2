@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 18:50:06 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763558404446
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.struts\:struts2-spring-plugin\:jar\:sources\:2.5.14.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763558404030
+http\://www.javaxt.com/maven/.lastUpdated=1763558406466
+https\://repository.jboss.org/nexus/content/groups/public/.error=

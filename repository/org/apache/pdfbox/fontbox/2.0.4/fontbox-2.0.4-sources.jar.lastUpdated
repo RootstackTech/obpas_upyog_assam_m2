@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:22:18 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771051935666
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.pdfbox\:fontbox\:jar\:sources\:2.0.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771051935022
+http\://repository.jspresso.org/maven2/.lastUpdated=1771051938259
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.apache.pdfbox\:fontbox\:jar\:sources\:2.0.4 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771051834877
+https\://repository.jboss.org/nexus/content/groups/public/.error=

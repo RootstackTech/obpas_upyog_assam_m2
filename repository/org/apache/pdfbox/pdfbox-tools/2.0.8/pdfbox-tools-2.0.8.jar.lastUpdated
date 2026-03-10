@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:11:24 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770986481670
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.pdfbox\:pdfbox-tools\:jar\:2.0.8 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770986480829
+http\://repository.jspresso.org/maven2/.lastUpdated=1770986484338
+https\://repository.jboss.org/nexus/content/groups/public/.error=

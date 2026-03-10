@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:09:45 IST 2026
+1725debf38749785a7ef4aafbfcf1dd284f00acf@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772524215118
+http\://3.111.119.239\:8082/artifactory/libs-release/.lastUpdated=1773153585686
+http\://releases.aspose.com/repo/.error=
+http\://releases.aspose.com/repo/.lastUpdated=1772524215745
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.pdfbox\:fontbox\:pom\:2.0.28 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect to repo.egovernments.org\:80 [repo.egovernments.org/104.211.218.120] failed\: Connection timed out\: connect
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772524215608
+https\://www.javaxt.com/maven/.lastUpdated=1772524216289
