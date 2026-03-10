@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.egov.edcr</groupId>
+  <artifactId>egov-ear</artifactId>
+  <versioning>
+    <lastUpdated>20250917080030</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>ear</extension>
+        <value>1.0.1-SNAPSHOT</value>
+        <updated>20250917080030</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.1-SNAPSHOT</value>
+        <updated>20250917080030</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0.1-SNAPSHOT</version>
+</metadata>

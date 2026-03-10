@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 17 13:31:08 IST 2025
+egov-config-1.0.1-20210105.071503-13.jar>repo.egovernments.org=
+egov-config-1.0.1-SNAPSHOT.jar>=
+egov-config-1.0.1-20210105.071503-13.pom>repo.egovernments.org=
+egov-config-1.0.1-20210105.071503-13-tests.jar>repo.egovernments.org=
+egov-config-1.0.1-SNAPSHOT.pom>=

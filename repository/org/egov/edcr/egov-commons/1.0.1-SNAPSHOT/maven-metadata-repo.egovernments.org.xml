@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.egov.edcr</groupId>
+  <artifactId>egov-commons</artifactId>
+  <version>1.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210105.071521</timestamp>
+      <buildNumber>12</buildNumber>
+    </snapshot>
+    <lastUpdated>20210105071521</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.1-20210105.071521-12</value>
+        <updated>20210105071521</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.1-20210105.071521-12</value>
+        <updated>20210105071521</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>1.0.1-20210105.071521-12</value>
+        <updated>20210105071521</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

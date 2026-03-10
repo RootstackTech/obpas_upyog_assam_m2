@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 21:40:52 IST 2026
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1765542592645
+http\://www.javaxt.com/maven/.error=
+http\://3.111.119.239\:8082/artifactory/libs-snapshot/.error=
+http\://www.javaxt.com/maven/.lastUpdated=1765542593971
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1773159052335
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1773119797224
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1773119796670
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.egov.edcr\:egov-config\:jar\:tests\:2.1.1-SNAPSHOT from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+http\://3.111.119.239\:8082/artifactory/libs-release/.error=
+http\://3.111.119.239\:8082/artifactory/libs-release/.lastUpdated=1773156582407
+http\://3.111.119.239\:8082/artifactory/libs-snapshot/.lastUpdated=1773156582698
+http\://releases.aspose.com/repo/.lastUpdated=1773159052505

@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 21:40:50 IST 2026
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+http\://www.javaxt.com/maven/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1765542592642
+http\://www.javaxt.com/maven/.lastUpdated=1765542593970
+http\://repository.jspresso.org/maven2/.lastUpdated=1739340523604
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1773159049658
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1773119794600
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1773119793257
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.egov.edcr\:egov-egi\:jar\:2.1.1-SNAPSHOT from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+http\://releases.aspose.com/repo/.lastUpdated=1773159050136

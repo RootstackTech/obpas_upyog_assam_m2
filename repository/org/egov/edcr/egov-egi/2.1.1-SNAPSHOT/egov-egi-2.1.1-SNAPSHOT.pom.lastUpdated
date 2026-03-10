@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 21:40:47 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1765542598924
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+http\://www.javaxt.com/maven/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1773153390474
+http\://www.javaxt.com/maven/.lastUpdated=1773153395076
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1773159047737
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1773119789768
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1773119789399
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.egov.edcr\:egov-egi\:pom\:2.1.1-SNAPSHOT from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: C\:\\Users\\RAZA\\.m2\\repository\\org\\egov\\edcr\\egov-egi\\2.1.1-SNAPSHOT\\aether-285183c6-5474-42e5-9d71-53fd2cc52e47-egov-egi-2.1.1-SNAPSHOT.pom-in-progress (Operation did not complete successfully because the file contains a virus or potentially unwanted software)
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.egov.edcr\:egov-egi\:pom\:2.1.1-SNAPSHOT from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+http\://releases.aspose.com/repo/.lastUpdated=1773159047821
