@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Mar 10 20:58:47 IST 2026
+#Wed Mar 11 00:01:45 IST 2026
 1725debf38749785a7ef4aafbfcf1dd284f00acf@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772524140844
 @default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1773156527075
 @default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1773154005241
@@ -12,8 +12,10 @@ http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not trans
 http\://repository.jspresso.org/maven2/.error=Could not transfer artifact com.aspose\:aspose-cad\:pom\:20.10 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Connection reset
 https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
 https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1773119783508
+https\://raw.githubusercontent.com/RootstackTech/obpas_upyog_assam_m2/main/.error=
+https\://raw.githubusercontent.com/RootstackTech/obpas_upyog_assam_m2/main/.lastUpdated=1773167504369
 https\://repo.maven.apache.org/maven2/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1773119785841
+https\://repo.maven.apache.org/maven2/.lastUpdated=1773167505131
 https\://repository.jboss.org/nexus/content/groups/public/.error=
 https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1773119784296
 https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=

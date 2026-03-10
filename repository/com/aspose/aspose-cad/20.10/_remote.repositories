@@ -1,6 +1,7 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Mar 03 14:10:03 IST 2026
-aspose-cad-20.10-javadoc.jar>AsposeJavaAPI=
-aspose-cad-20.10.pom>AsposeJavaAPI=
-aspose-cad-20.10-sources.jar>JSPRESSO=
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 00:17:27 IST 2026
 aspose-cad-20.10.jar>AsposeJavaAPI=
+aspose-cad-20.10-sources.jar>JSPRESSO=
+aspose-cad-20.10-javadoc.jar>AsposeJavaAPI=
+aspose-cad-20.10.jar>=
+aspose-cad-20.10.pom>AsposeJavaAPI=
