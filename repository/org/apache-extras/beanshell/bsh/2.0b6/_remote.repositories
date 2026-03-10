@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+bsh-2.0b6-sources.jar>javaxt.com=
+bsh-2.0b6.jar>jfrog-release=
+bsh-2.0b6.jar>repo.egovernments.org=
+bsh-2.0b6.pom>jfrog-release=
+bsh-2.0b6.pom>repo.egovernments.org=

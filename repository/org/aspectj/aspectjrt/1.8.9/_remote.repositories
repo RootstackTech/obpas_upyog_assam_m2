@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:03 IST 2026
+aspectjrt-1.8.9-javadoc.jar>central=
+aspectjrt-1.8.9-sources.jar>javaxt.com=
+aspectjrt-1.8.9.jar>jfrog-release=
+aspectjrt-1.8.9.jar>repo.egovernments.org=
+aspectjrt-1.8.9.pom>jfrog-release=
+aspectjrt-1.8.9.pom>repo.egovernments.org=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:33:05 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771056184736
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771056183976
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:javadoc\:1.8.9 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/aspectj/aspectjrt/1.8.9/aspectjrt-1.8.9-javadoc.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771056185171
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:javadoc\:1.8.9 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771056183346
+https\://repository.jboss.org/nexus/content/groups/public/.error=

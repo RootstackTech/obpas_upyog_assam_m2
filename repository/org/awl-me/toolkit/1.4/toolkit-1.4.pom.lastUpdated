@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 17:59:01 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770985736907
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.awl-me\:toolkit\:pom\:1.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770985736420
+http\://repository.jspresso.org/maven2/.lastUpdated=1770985741669
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.awl-me\:toolkit\:pom\:1.4 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/awl-me/toolkit/1.4/toolkit-1.4.pom. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770985636231
+https\://repository.jboss.org/nexus/content/groups/public/.error=

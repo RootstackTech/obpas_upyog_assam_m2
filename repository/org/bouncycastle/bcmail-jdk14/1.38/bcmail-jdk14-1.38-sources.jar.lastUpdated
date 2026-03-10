@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 20:44:15 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763565253486
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.bouncycastle\:bcmail-jdk14\:jar\:sources\:1.38 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763565252267
+http\://www.javaxt.com/maven/.lastUpdated=1763565255265
+https\://repository.jboss.org/nexus/content/groups/public/.error=

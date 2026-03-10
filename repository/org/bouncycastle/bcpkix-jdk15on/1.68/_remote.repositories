@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 07 22:09:16 IST 2025
+bcpkix-jdk15on-1.68.jar>repo.egovernments.org.public=
+bcpkix-jdk15on-1.68.pom>repo.egovernments.org.public=
+bcpkix-jdk15on-1.68-sources.jar>repo.egovernments.org.public=
