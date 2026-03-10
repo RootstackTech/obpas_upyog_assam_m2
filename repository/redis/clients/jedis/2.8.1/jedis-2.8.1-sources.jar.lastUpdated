@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 13:40:23 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772525420871
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact redis.clients\:jedis\:jar\:sources\:2.8.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772525420312
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772525423239
+http\://releases.aspose.com/repo/.lastUpdated=1772525421294

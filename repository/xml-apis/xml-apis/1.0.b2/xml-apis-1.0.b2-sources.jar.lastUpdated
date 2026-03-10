@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 18:44:43 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770988482930
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770988481997
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:sources\:1.0.b2 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1770988483174
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:sources\:1.0.b2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770988481382
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:sources\:1.0.b2 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988381214
+https\://repository.jboss.org/nexus/content/groups/public/.error=

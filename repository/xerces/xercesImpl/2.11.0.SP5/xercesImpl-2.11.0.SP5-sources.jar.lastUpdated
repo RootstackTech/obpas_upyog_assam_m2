@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 19:14:19 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770990259246
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact xerces\:xercesImpl\:jar\:sources\:2.11.0.SP5 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770990258285
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact xerces\:xercesImpl\:jar\:sources\:2.11.0.SP5 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/xerces/xercesImpl/2.11.0.SP5/xercesImpl-2.11.0.SP5-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770990157992

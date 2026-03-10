@@ -1,0 +1,22 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 15:06:47 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770988273377
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763562181967
+http\://www.javaxt.com/maven/.error=
+http\://www.javaxt.com/maven/.lastUpdated=1763562183688
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770988271604
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527058549
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772524452169
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763562182413
+https\://repo.maven.apache.org/maven2/.lastUpdated=1763562183787
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact tomcat\:jasper-compiler-jdt\:jar\:sources\:5.5.23 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/tomcat/jasper-compiler-jdt/5.5.23/jasper-compiler-jdt-5.5.23-sources.jar. Error code 429, Too Many Requests
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact tomcat\:jasper-compiler-jdt\:jar\:sources\:5.5.23 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact tomcat\:jasper-compiler-jdt\:jar\:sources\:5.5.23 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/tomcat/jasper-compiler-jdt/5.5.23/jasper-compiler-jdt-5.5.23-sources.jar. Error code 403, Forbidden
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1772530607619
+http\://releases.aspose.com/repo/.lastUpdated=1772524450993
