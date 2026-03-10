@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 13:26:28 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770998145506
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1770998145651
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770998145381
+@default-JBoss\ Repository-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770998145439
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770998145307
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.security.oauth\:spring-security-oauth2\:jar\:sources\:2.2.0.RELEASE from/to JBoss Repository (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772524588977
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.springframework.security.oauth\:spring-security-oauth2\:jar\:sources\:2.2.0.RELEASE from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: repository.jspresso.org
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.security.oauth\:spring-security-oauth2\:jar\:sources\:2.2.0.RELEASE from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: repo.egovernments.org
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.springframework.security.oauth\:spring-security-oauth2\:jar\:sources\:2.2.0.RELEASE from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: artifactorypg.paytm.in
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.security.oauth\:spring-security-oauth2\:jar\:sources\:2.2.0.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+http\://releases.aspose.com/repo/.lastUpdated=1772524586912

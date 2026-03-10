@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 19:07:14 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770989832522
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:sources\:4.2.3.RELEASE from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770989831906
+http\://repository.jspresso.org/maven2/.lastUpdated=1770989834649
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.springframework.security\:spring-security-core\:jar\:sources\:4.2.3.RELEASE from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770989731735
+https\://repository.jboss.org/nexus/content/groups/public/.error=

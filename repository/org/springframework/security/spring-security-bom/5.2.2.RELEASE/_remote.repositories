@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 10 13:59:32 IST 2025
+spring-security-bom-5.2.2.RELEASE.pom>central=
+spring-security-bom-5.2.2.RELEASE.pom>repo.egovernments.org=
+spring-security-bom-5.2.2.RELEASE.pom>repo.egovernments.org.public=

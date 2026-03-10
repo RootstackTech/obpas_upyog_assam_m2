@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:03 IST 2026
+spring-security-oauth2-2.2.0.RELEASE-javadoc.jar>central=
+spring-security-oauth2-2.2.0.RELEASE-sources.jar>javaxt.com=
+spring-security-oauth2-2.2.0.RELEASE.jar>jfrog-release=
+spring-security-oauth2-2.2.0.RELEASE.jar>repo.egovernments.org=
+spring-security-oauth2-2.2.0.RELEASE.pom>jfrog-release=
+spring-security-oauth2-2.2.0.RELEASE.pom>repo.egovernments.org=

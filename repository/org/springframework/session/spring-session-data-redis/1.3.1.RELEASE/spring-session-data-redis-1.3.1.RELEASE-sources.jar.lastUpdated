@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 21:25:49 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1770998149425
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.springframework.session\:spring-session-data-redis\:jar\:sources\:1.3.1.RELEASE from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: repository.jspresso.org
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1770998149483
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.session\:spring-session-data-redis\:jar\:sources\:1.3.1.RELEASE from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: repo.egovernments.org
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1770998149310
+@default-JBoss\ Repository-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1770998149358
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.springframework.session\:spring-session-data-redis\:jar\:sources\:1.3.1.RELEASE from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: artifactorypg.paytm.in
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.session\:spring-session-data-redis\:jar\:sources\:1.3.1.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1770998149271
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.session\:spring-session-data-redis\:jar\:sources\:1.3.1.RELEASE from/to JBoss Repository (https\://repository.jboss.org/nexus/content/groups/public/)\: repository.jboss.org
