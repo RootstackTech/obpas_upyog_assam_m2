@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 15:06:54 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1772527263282
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772526208777
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527048932
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772526210656
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772526209301
+https\://repo.maven.apache.org/maven2/.lastUpdated=1772526210816
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact axis\:axis-wsdl4j\:jar\:sources\:1.5.1 from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/axis/axis-wsdl4j/1.5.1/axis-wsdl4j-1.5.1-sources.jar. Error code 429, Too Many Requests
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.error=
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact axis\:axis-wsdl4j\:jar\:sources\:1.5.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+https\://upyog-nexus.niua.org/nexus/content/groups/public/.lastUpdated=1772530614781
+http\://releases.aspose.com/repo/.lastUpdated=1772526209647

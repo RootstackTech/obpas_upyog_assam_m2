@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+axis-wsdl4j-1.5.1-javadoc.jar>JSPRESSO=
+axis-wsdl4j-1.5.1.jar>jfrog-release=
+axis-wsdl4j-1.5.1.jar>repo.egovernments.org=
+axis-wsdl4j-1.5.1.pom>jfrog-release=
+axis-wsdl4j-1.5.1.pom>repo.egovernments.org=

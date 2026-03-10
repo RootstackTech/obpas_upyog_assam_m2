@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 14:22:38 IST 2026
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772527955678
+http\://repository.jspresso.org/maven2/.lastUpdated=1772527958892
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527074244
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772527076856
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772527074873
+https\://repo.maven.apache.org/maven2/.lastUpdated=1772527077116
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact axis\:axis-wsdl4j\:jar\:javadoc\:1.5.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://releases.aspose.com/repo/.lastUpdated=1772527075647
