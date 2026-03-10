@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:31:23 IST 2026
+@default-JSPRESSO-http\://repository.jspresso.org/maven2/.lastUpdated=1771056082918
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771056082335
+http\://repository.jspresso.org/maven2/.error=Could not transfer artifact org.springframework.data\:spring-data-jpa\:jar\:javadoc\:1.10.6.RELEASE from/to JSPRESSO (http\://repository.jspresso.org/maven2/)\: Failed to transfer http\://repository.jspresso.org/maven2/org/springframework/data/spring-data-jpa/1.10.6.RELEASE/spring-data-jpa-1.10.6.RELEASE-javadoc.jar. Error code 429, Too Many Requests
+https\://repo.maven.apache.org/maven2/.lastUpdated=1771056083190
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.data\:spring-data-jpa\:jar\:javadoc\:1.10.6.RELEASE from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771056081727
+https\://repository.jboss.org/nexus/content/groups/public/.error=
