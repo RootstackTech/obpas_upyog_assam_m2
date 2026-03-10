@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+ognl-3.1.15-sources.jar>javaxt.com=
+ognl-3.1.15.jar>jfrog-release=
+ognl-3.1.15.jar>repo.egovernments.org=
+ognl-3.1.15.pom>jfrog-release=
+ognl-3.1.15.pom>repo.egovernments.org=

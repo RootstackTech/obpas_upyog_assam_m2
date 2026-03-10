@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:11:01 IST 2026
+sitemesh-2.4.2.jar>jfrog-release=
+sitemesh-2.4.2.jar>repo.egovernments.org=
+sitemesh-2.4.2.pom>jfrog-release=
+sitemesh-2.4.2.pom>repo.egovernments.org=

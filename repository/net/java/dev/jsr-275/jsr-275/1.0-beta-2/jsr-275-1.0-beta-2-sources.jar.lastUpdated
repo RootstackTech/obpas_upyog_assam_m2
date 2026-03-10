@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 20:20:19 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763563817604
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact net.java.dev.jsr-275\:jsr-275\:jar\:sources\:1.0-beta-2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763563816964
+http\://www.javaxt.com/maven/.lastUpdated=1763563819183
+https\://repository.jboss.org/nexus/content/groups/public/.error=

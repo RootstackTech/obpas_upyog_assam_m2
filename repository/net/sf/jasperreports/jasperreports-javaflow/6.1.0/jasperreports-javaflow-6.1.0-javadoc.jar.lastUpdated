@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 13:00:32 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771054228696
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact net.sf.jasperreports\:jasperreports-javaflow\:jar\:javadoc\:6.1.0 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771054228089
+http\://repository.jspresso.org/maven2/.lastUpdated=1771054232080
+https\://repository.jboss.org/nexus/content/groups/public/.error=

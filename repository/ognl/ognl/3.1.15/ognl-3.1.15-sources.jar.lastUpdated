@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 18:46:39 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763558197889
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact ognl\:ognl\:jar\:sources\:3.1.15 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763558197414
+http\://www.javaxt.com/maven/.lastUpdated=1763558199394
+https\://repository.jboss.org/nexus/content/groups/public/.error=

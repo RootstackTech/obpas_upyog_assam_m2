@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 12:34:47 IST 2025
+byte-buddy-1.10.8.pom>repo.egovernments.org.public=
+byte-buddy-1.10.8-sources.jar>repo.egovernments.org=
+byte-buddy-1.10.8.pom>repo.egovernments.org=
+byte-buddy-1.10.8.jar>repo.egovernments.org.public=
+byte-buddy-1.10.8.jar>repo.egovernments.org=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 20:51:04 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763565662741
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact net.sf.ehcache\:ehcache-web\:jar\:sources\:2.0.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763565661813
+http\://www.javaxt.com/maven/.lastUpdated=1763565664278
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 11:57:22 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771050437189
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact ma.glasnost.orika\:orika-core\:jar\:sources\:1.5.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771050436567
+http\://repository.jspresso.org/maven2/.lastUpdated=1771050442627
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact ma.glasnost.orika\:orika-core\:jar\:sources\:1.5.2 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/ma/glasnost/orika/orika-core/1.5.2/orika-core-1.5.2-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771050336417
+https\://repository.jboss.org/nexus/content/groups/public/.error=
