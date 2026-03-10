@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 19 21:33:35 IST 2025
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1763568214907
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.commons\:commons-text\:jar\:sources\:1.1 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1763568214301
+http\://www.javaxt.com/maven/.lastUpdated=1763568215757
+https\://repository.jboss.org/nexus/content/groups/public/.error=

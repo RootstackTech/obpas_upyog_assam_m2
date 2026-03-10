@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 03 14:20:55 IST 2026
+https\://nexus-repo.digit.org/nexus/content/groups/public/.error=
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1772527852192
+http\://repository.jspresso.org/maven2/.lastUpdated=1772527855561
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://nexus-repo.digit.org/nexus/content/groups/public/.lastUpdated=1772527070840
+http\://releases.aspose.com/repo/.error=
+https\://www.javaxt.com/maven/.error=
+https\://www.javaxt.com/maven/.lastUpdated=1772527073460
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1772527071402
+https\://repo.maven.apache.org/maven2/.lastUpdated=1772527073642
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.apache.axis\:axis-saaj\:jar\:javadoc\:1.4 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://releases.aspose.com/repo/.lastUpdated=1772527072303
