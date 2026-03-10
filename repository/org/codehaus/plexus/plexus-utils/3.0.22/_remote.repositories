@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 17 13:30:52 IST 2025
+plexus-utils-3.0.22.jar>repo.egovernments.org=
+plexus-utils-3.0.22.pom>repo.egovernments.org=
+plexus-utils-3.0.22.pom>central=

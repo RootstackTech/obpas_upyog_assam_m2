@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+groovy-all-2.4.12-sources.jar>central=
+groovy-all-2.4.12.jar>jfrog-release=
+groovy-all-2.4.12.jar>repo.egovernments.org=
+groovy-all-2.4.12.pom>jfrog-release=
+groovy-all-2.4.12.pom>repo.egovernments.org=

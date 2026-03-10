@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:04:31 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771050866873
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.janino\:janino\:jar\:sources\:2.7.5 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771050866289
+http\://repository.jspresso.org/maven2/.lastUpdated=1771050871509
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.codehaus.janino\:janino\:jar\:sources\:2.7.5 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/codehaus/janino/janino/2.7.5/janino-2.7.5-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771050766131
+https\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:36:16 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771052768650
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.easymock\:easymockclassextension\:jar\:sources\:3.2 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771052767592
+http\://repository.jspresso.org/maven2/.lastUpdated=1771052776561
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.easymock\:easymockclassextension\:jar\:sources\:3.2 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/easymock/easymockclassextension/3.2/easymockclassextension-3.2-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771052667473
+https\://repository.jboss.org/nexus/content/groups/public/.error=

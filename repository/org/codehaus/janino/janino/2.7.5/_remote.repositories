@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+janino-2.7.5-sources.jar>JSPRESSO=
+janino-2.7.5.jar>jfrog-release=
+janino-2.7.5.jar>repo.egovernments.org=
+janino-2.7.5.pom>jfrog-release=
+janino-2.7.5.pom>repo.egovernments.org=

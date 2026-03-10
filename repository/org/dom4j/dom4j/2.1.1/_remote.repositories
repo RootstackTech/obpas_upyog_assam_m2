@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 12:35:27 IST 2025
+dom4j-2.1.1.jar>repo.egovernments.org.public=
+dom4j-2.1.1.jar>repo.egovernments.org=
+dom4j-2.1.1.pom>repo.egovernments.org.public=
+dom4j-2.1.1.pom>repo.egovernments.org=
+dom4j-2.1.1-sources.jar>repo.egovernments.org=

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:04 IST 2026
+commons-compiler-2.7.5-sources.jar>JSPRESSO=
+commons-compiler-2.7.5.jar>jfrog-release=
+commons-compiler-2.7.5.jar>repo.egovernments.org=
+commons-compiler-2.7.5.pom>jfrog-release=
+commons-compiler-2.7.5.pom>repo.egovernments.org=
