@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:09:45 IST 2026
+http\://3.111.119.239\:8082/artifactory/libs-release/.lastUpdated=1773153585660
+http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1735815261872
+https\://nexus-repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1735815063289
+https\://nexus-repo.egovernments.org/nexus/content/repositories/releases/.error=
+https\://nexus-repo.egovernments.org/nexus/content/repositories/releases/.lastUpdated=1735815063074
+https\://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/.error=
+https\://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/.lastUpdated=1735815063139

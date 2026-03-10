@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:30:56 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771052454280
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.kubek2k\:springockito\:jar\:sources\:1.0.9 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771052453664
+http\://repository.jspresso.org/maven2/.lastUpdated=1771052456966
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.kubek2k\:springockito\:jar\:sources\:1.0.9 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/kubek2k/springockito/1.0.9/springockito-1.0.9-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771052353303
+https\://repository.jboss.org/nexus/content/groups/public/.error=

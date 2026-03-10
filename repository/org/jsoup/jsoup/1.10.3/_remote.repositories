@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 10 20:10:42 IST 2026
+jsoup-1.10.3-sources.jar>javaxt.com=
+jsoup-1.10.3.jar>jfrog-release=
+jsoup-1.10.3.jar>repo.egovernments.org=
+jsoup-1.10.3.pom>jfrog-release=
+jsoup-1.10.3.pom>repo.egovernments.org=

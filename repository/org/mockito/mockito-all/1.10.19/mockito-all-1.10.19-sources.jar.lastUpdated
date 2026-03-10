@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 14 12:29:13 IST 2026
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1771052350769
+http\://repo.egovernments.org/nexus/content/groups/public/.error=Could not transfer artifact org.mockito\:mockito-all\:jar\:sources\:1.10.19 from/to repo.egovernments.org (http\://repo.egovernments.org/nexus/content/groups/public/)\: Connect timed out
+@default-repo.egovernments.org-http\://repo.egovernments.org/nexus/content/groups/public/.lastUpdated=1771052350233
+http\://repository.jspresso.org/maven2/.lastUpdated=1771052353002
+http\://artifactorypg.paytm.in/artifactory/libs-release/.error=Could not transfer artifact org.mockito\:mockito-all\:jar\:sources\:1.10.19 from/to my-repo1 (http\://artifactorypg.paytm.in/artifactory/libs-release)\: Access denied to http\://artifactorypg.paytm.in/artifactory/libs-release/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar. Error code 403, Forbidden
+@default-my-repo1-http\://artifactorypg.paytm.in/artifactory/libs-release/.lastUpdated=1771052249993
+https\://repository.jboss.org/nexus/content/groups/public/.error=
